@@ -7,6 +7,7 @@ import java.awt.Label;
 import java.awt.Panel;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.io.FileNotFoundException;
 import java.util.ArrayList;
 
 import javax.sound.midi.MidiEvent;
@@ -27,6 +28,7 @@ import javax.swing.plaf.SeparatorUI;
 import javax.swing.plaf.basic.BasicTreeUI.TreeTraverseAction;
 import javax.swing.text.MaskFormatter;
 import javax.swing.text.html.StyleSheet.BoxPainter;
+import com.ser.*;
 
 public class beatBox {
 	
@@ -44,10 +46,10 @@ public class beatBox {
 		       "Open Hi Conga"};
 		int[] instruments = {35,42,46,38,49,39,50,60,70,72,64,56,58,47,67,63};
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws FileNotFoundException {
 		// TODO Auto-generated method stub
-		beatBox a = new beatBox();
-		a.buildGui();
+		//beatBox a = new beatBox();
+		//a.buildGui();
 	}
 	
 	public void buildGui() {
