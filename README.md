@@ -9,3 +9,4 @@
 <b>Threads</b></br>
 <b>AWT</b></br>
 <b>Swing</b></br>
+<b>Synchronization</b></br>
