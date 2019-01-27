@@ -1,9 +1,11 @@
 # H1JPratice
 
-Programs created in this repo utilizes below libraries:
+<h1>Learnt to utilize below Java Libraries</h1>
 
-Serialization
-Runnable
-Sockets
-ServerSockets
-Threads
+<b>Serialization</b></br>
+<b>Runnable</b></br>
+<b>Sockets</b></br>
+<b>ServerSockets</b></br>
+<b>Threads</b></br>
+<b>AWT</b></br>
+<b>Swing</b></br>
