@@ -1,7 +1,6 @@
-# H1JPratice
+# Core Java Programs
 
-<h1>Learnt to utilize below Java Libraries</h1>
-
+Library utilized to create programs.
 <b>Serialization</b></br>
 <b>Runnable</b></br>
 <b>Sockets</b></br>
